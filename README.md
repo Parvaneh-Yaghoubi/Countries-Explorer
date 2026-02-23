@@ -23,7 +23,7 @@ Users can search by country name, filter by region, and view key country informa
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Parvaneh-Yaghoubi/Countries-Explorer.git
 cd countries-explorer
 ```
 
